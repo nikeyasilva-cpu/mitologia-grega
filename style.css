@@ -1,18 +1,18 @@
 body{
-    color:rgb(89, 129, 214);
-    background:rgb(144, 183, 228);
+    color: green;
+    background: rgb(229, 240, 24);
     margin: 0px;
+    font-family: "Permanent Marker", sans-serif;
 }
-
 header{
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px rgb(0, 38, 255);
     padding: 20px;
     font-size: 32px;
-    color:rgb(27, 12, 231);
+    color:chocolate;
 }
 
-section {
-    background:rgb(2, 2, 73);
+section{
+    background: white;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
